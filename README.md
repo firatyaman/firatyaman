@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @firatyaman
-- 👀 I’m interested in marketing and advertising technologies
-- 🌱 I’m learning all the time
+- My expertise are marketing and advertising technologies
+- I built products and tools
 
 <!---
 firatyaman/firatyaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
